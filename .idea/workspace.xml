@@ -1,26 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="77b99ed0-424a-49b4-abb5-53d1c5f900b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    <list default="true" id="77b99ed0-424a-49b4-abb5-53d1c5f900b5" name="Changes" comment="Push Starter Project">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KonsepOOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp01_KelasDanObjek_id/ac/polbeng/wawansaputra/test/kelas/exp01_Greeter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp01_KelasDanObjek_id/ac/polbeng/wawansaputra/test/kelas/exp02_GreeterTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp01_KelasDanObjek_id/ac/polbeng/wawansaputra/test/kelas/exp03_Greeter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp01_KelasDanObjek_id/ac/polbeng/wawansaputra/test/kelas/exp04_GreeterTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp01_KelasDanObjek_id/ac/polbeng/wawansaputra/test/kelas/exp05_InitOrder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp01_KelasDanObjek_id/ac/polbeng/wawansaputra/test/kelas/exp06_PersonA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp01_KelasDanObjek_id/ac/polbeng/wawansaputra/test/kelas/exp07_PersonB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp01_KelasDanObjek_id/ac/polbeng/wawansaputra/test/kelas/exp08_PersonC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp01_KelasDanObjek_id/ac/polbeng/wawansaputra/test/kelas/exp09_PersonD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp01_KelasDanObjek_id/ac/polbeng/wawansaputra/test/kelas/exp10_PersonE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp01_KelasDanObjek_id/ac/polbeng/wawansaputra/test/kelas/exp11_PersonF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp02_Enkapsulasi_id/ac/polbeng/wawansaputra/test/kelas/exp01_EnkapsulasiA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp02_Enkapsulasi_id/ac/polbeng/wawansaputra/test/kelas/exp02_EnkapsulasiB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp03_Enheritance_id/ac/polbeng/wawansaputra/test/kelas/exp01_InheritanceA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp03_Enheritance_id/ac/polbeng/wawansaputra/test/kelas/exp02_IngeritanceB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp03_Enheritance_id/ac/polbeng/wawansaputra/test/kelas/exp03_InheritanceC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp03_Enheritance_id/ac/polbeng/wawansaputra/test/kelas/exp04_InheritanceD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp03_Enheritance_id/ac/polbeng/wawansaputra/test/kelas/exp05_InheritanceE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp03_Enheritance_id/ac/polbeng/wawansaputra/test/kelas/exp06_InheritanceF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp03_Enheritance_id/ac/polbeng/wawansaputra/test/kelas/exp07_InheritanceG.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp03_Enheritance_id/ac/polbeng/wawansaputra/test/kelas/exp08_InheritanceH.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp04_Polymorphism_id/ac/polbeng/wawansaputra/test/kelas/exp01_StaticPolymorphism.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp04_Polymorphism_id/ac/polbeng/wawansaputra/test/kelas/exp02_DynamicPolymorphism.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp05_VisibilityModifier_id/ac/polbeng/wawansaputra/test/kelas/VisibilityModifier.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp06_AccesModifier_id/ac/polbeng/wawansaputra/test/kelas/AccessModifier.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp07_KelasAbstrak_id/ac/polbeng/wawansaputra/test/kelas/KelasAbstrak.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp08_Interface_id/ac/polbeng/wawansaputra/test/kelas/exp01_InterfaceA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp08_Interface_id/ac/polbeng/wawansaputra/test/kelas/exp02_InterfaceB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp08_Interface_id/ac/polbeng/wawansaputra/test/kelas/exp03_InterfaceC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp08_Interface_id/ac/polbeng/wawansaputra/test/kelas/exp04_InterfaceD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp09_NestedDanInnerClass_id/ac/polbeng/wawansaputra/test/kelas/exp01_NestedClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp09_NestedDanInnerClass_id/ac/polbeng/wawansaputra/test/kelas/exp02_InnerClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp09_NestedDanInnerClass_id/ac/polbeng/wawansaputra/test/kelas/exp03_AnonymousClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp10_DataKelas_id/ac/polbeng/wawansaputra/test/kelas/exp01_DataClassA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp10_DataKelas_id/ac/polbeng/wawansaputra/test/kelas/exp02_DataClassB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp10_DataKelas_id/ac/polbeng/wawansaputra/test/kelas/exp03_DataClassC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp10_DataKelas_id/ac/polbeng/wawansaputra/test/kelas/exp04_DataClassD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp10_DataKelas_id/ac/polbeng/wawansaputra/test/kelas/exp05_DataClassE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exp10_DataKelas_id/ac/polbeng/wawansaputra/test/kelas/exp06_DataClassE.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2mdHTTdiGCsWSEDgFmqwCNkf1VW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,9 +81,56 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager" selected="Kotlin.Exp06_DataClassEKt">
+    <configuration name="Exp02_DataClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exp10_DataKelas_id.ac.polbeng.wawansaputra.test.kelas.Exp02_DataClassBKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exp03_DataClassCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exp10_DataKelas_id.ac.polbeng.wawansaputra.test.kelas.Exp03_DataClassCKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exp04_DataClassDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exp10_DataKelas_id.ac.polbeng.wawansaputra.test.kelas.Exp04_DataClassDKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exp05_DataClassEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exp10_DataKelas_id.ac.polbeng.wawansaputra.test.kelas.Exp05_DataClassEKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exp06_DataClassEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exp10_DataKelas_id.ac.polbeng.wawansaputra.test.kelas.Exp06_DataClassEKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Exp06_DataClassEKt" />
+        <item itemvalue="Kotlin.Exp05_DataClassEKt" />
+        <item itemvalue="Kotlin.Exp04_DataClassDKt" />
+        <item itemvalue="Kotlin.Exp03_DataClassCKt" />
+        <item itemvalue="Kotlin.Exp02_DataClassBKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +140,18 @@
       <option name="presentableId" value="Default" />
       <updated>1727399541164</updated>
     </task>
+    <task id="LOCAL-00001" summary="Push Starter Project">
+      <created>1727399664384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727399664384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Push Starter Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push Starter Project" />
   </component>
 </project>
